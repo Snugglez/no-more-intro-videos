@@ -1,6 +1,6 @@
 const fs = require("fs")
 const path = require("path")
-module.exports = function reee(d) {
+exports.ClientMod = function reee(d) {
 let vidPath = path.join(d.clientInterface.info.path, '\\..\\S1Game\\CookedPC\\Art_Data\\Packages\\Video\\')
 let files = fs.readdirSync(vidPath, {withFileTypes: true})
 function unname(){

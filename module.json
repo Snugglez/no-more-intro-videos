@@ -1,11 +1,13 @@
 {
-	"disableAutoUpdate": false,
-	"name": "no-more-intro-videos",
-	"author": "Snug",
-	"description": "Renames intro videos to bypass ever seeing them",
-	"category": "client",
-	"options": {
-		"guiName": "No More Intro Videos"
-	},
-	"servers": ["https://raw.githubusercontent.com/snugglez/no-more-intro-videos/master/"]
+    "disableAutoUpdate": false,
+    "name": "no-more-intro-videos",
+    "author": "Snug",
+    "description": "Renames intro videos to bypass ever seeing them",
+    "category": "client",
+    "options": {
+        "guiName": "No More Intro Videos"
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/snugglez/no-more-intro-videos/master/"
+    ]
 }
