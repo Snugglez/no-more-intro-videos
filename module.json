@@ -2,6 +2,7 @@
     "disableAutoUpdate": false,
     "name": "no-more-intro-videos",
     "author": "Snug",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
     "description": "Renames intro videos to bypass ever seeing them",
     "category": "client",
     "options": {
